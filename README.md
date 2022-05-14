@@ -10,7 +10,7 @@ Computer Organization (18CS34)
 Academic Year 2021-22
 
 Submitted By
-Aniruddha 2KE20CS0
+Aniruddha 2KE20CS
 Karthik   2KE20CS
 Bhagya 	  2KE20CS
 Meghana   2KE20CS
@@ -37,10 +37,10 @@ I would be failing in endeavor, if I do not thank our Coordinator Prof. Kavita M
 Last but not the least, I would like to thank my parents, friends & well wishers who have helped me in this work.
 
 
-							          Aniruddha
-									      Karthik
-							  	      Bhagya
- 	   							      Meghana
-									      Gouri
-									      Chaitra
-
+Aniruddha
+Kartik
+Bhagya	
+Meghana
+Gouri
+Chaitra
+ 	   							      
