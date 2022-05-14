@@ -10,12 +10,12 @@ Computer Organization (18CS34)
 Academic Year 2021-22
 
 Submitted By
-Aniruddha 			2KE20CS007
-Karthik  				2KE20CS032
-Bhagya 				  2KE20CS018
-Meghana 				2KE20CS046
-Gouri 				  2KE20CS
-Chaitra B M			2KE20CS
+Aniruddha 2KE20CS0
+Karthik   2KE20CS
+Bhagya 	  2KE20CS
+Meghana   2KE20CS
+Gouri 	  2KE20CS
+Chaitra B 2KE20CS
 
 
 Under the Guidance of
